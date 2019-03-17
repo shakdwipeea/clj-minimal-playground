@@ -1,0 +1,6 @@
+* Clj minimal playground 
+
+A minimal playing surface for clj dev.
+
+** Instructions
+
