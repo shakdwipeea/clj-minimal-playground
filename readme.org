@@ -4,3 +4,19 @@ A minimal playing surface for clj dev.
 
 ** Instructions
 
+*** Starting nrepl
+
+Run ~clj -m user.core~ at the terminal
+
+*** Connecting emacs
+
+M-x cider-connect 
+host: localhost
+port: 9001
+
+If you want to change port, change it in dev/user/core.clj
+
+*** Other editors
+
+An nrepl server is running at 9001. Try to connect to that from your editor. 
+
